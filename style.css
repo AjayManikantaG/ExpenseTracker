@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    display: flex;
+    width: 99.9%;
+    height: 100vh;
+    border: 1px solid red;
+    overflow-y: hidden;
+}
+
+/* Side bar styling goes here */
+.side-navbar {
+    width: 4%;
+    border: 1px solid red;
+
+}
+
+.side-navbar p {
+    font-size: 14px;
+}
+
+.side-section {
+    width: 90%;
+}
+
